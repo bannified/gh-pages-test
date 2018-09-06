@@ -7,8 +7,8 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 
 remote_theme: jekyll-material-theme
 
-parallax_image_one: {{ site.url }}/assets/images/tember-defense.png # These are the images used for the parallax background
-parallax_image_two: {{ site.url }}/assets/images/tember-defense.png
+parallax_image_one: /assets/images/tember-defense.png # These are the images used for the parallax background
+parallax_image_two: /assets/images/tember-defense.png
 
 # Settings for the porfolio section
 
@@ -58,10 +58,10 @@ colored: colored # Leave blank for black and white icons
 project_button: Github
 
 github: https://github.com/jameshamann/jekyll-material-theme
-#medium: https://medium.com
+medium: https://medium.com
 
 baseurl: # If your site is located at /blog or /home, change it here, otherwise leave it empty
-url: https://github.com/bannified/gh-pages-test/ # The URL of your site
+url: https://bannified.github.io/gh-pages-test/ # The URL of your site
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
 tag_manager_id: # This looks something like GTM-XXXXXXX
