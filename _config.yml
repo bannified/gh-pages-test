@@ -7,8 +7,8 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 
 theme: jekyll-material-theme
 
-parallax_image_one: https://img.itch.zone/aW1hZ2UvMjM4MzY0LzEyMTcyODQucG5n/original/IBtjsl.png # These are the images used for the parallax background
-parallax_image_two: https://img.itch.zone/aW1hZ2UvMjM4MzY0LzEyMTcyODQucG5n/original/IBtjsl.png
+parallax_image_one: ../assets/images/tember-defense.png # These are the images used for the parallax background
+parallax_image_two: ../assets/images/tember-defense.png
 
 # Settings for the porfolio section
 
