@@ -5,7 +5,7 @@ description: Unity/UE4 Game Developer<br>Computer Science Undergraduate at Natio
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
-theme: jekyll-material-theme
+remote_theme: jekyll-material-theme
 
 parallax_image_one: /assets/images/tember-defense.png # These are the images used for the parallax background
 parallax_image_two: /assets/images/tember-defense.png
