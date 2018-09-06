@@ -1,14 +1,14 @@
 title: Dominic Chong
 name: Dominic Chong
 email: dominicchongjh@gmail.com
-description: Unity/UE4 Game Developer<br>Computer Science Undergraduate at National University of Singapore
+description: Unity/UE4 Game Developer<br><br>Computer Science Undergraduate at National University of Singapore
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
 remote_theme: jekyll-material-theme
 
-parallax_image_one: /assets/images/tember-defense.png # These are the images used for the parallax background
-parallax_image_two: /assets/images/tember-defense.png
+parallax_image_one: {{ site.url }}/assets/images/tember-defense.png # These are the images used for the parallax background
+parallax_image_two: {{ site.url }}/assets/images/tember-defense.png
 
 # Settings for the porfolio section
 
