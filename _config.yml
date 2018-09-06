@@ -1,7 +1,7 @@
 title: Dominic Chong
 name: Dominic Chong
 email: dominicchongjh@gmail.com
-description: Unity/UE4 Game Developer, Computer Science Undergraduate at National University of Singapore
+description: Unity/UE4 Game Developer\n Computer Science Undergraduate at National University of Singapore
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
@@ -13,7 +13,7 @@ parallax_image_two: assets/images/startup3.jpg
 # Settings for the porfolio section
 
 portfolio_heading: Portfolio
-portfolio_type: cards #cards or carousel
+portfolio_type: carousel #cards or carousel
 
 project_one: "Tember Defense"
 project_one_description: A Tower Defense game with RTS elements. Solo project made in Unity.
@@ -58,7 +58,7 @@ colored: colored # Leave blank for black and white icons
 project_button: Github
 
 github: https://github.com/jameshamann/jekyll-material-theme
-medium: https://medium.com
+#medium: https://medium.com
 
 baseurl: # If your site is located at /blog or /home, change it here, otherwise leave it empty
 url: http://localhost:4000/ # The URL of your site
