@@ -15,10 +15,10 @@ parallax_image_two: assets/images/startup3.jpg
 portfolio_heading: Portfolio
 portfolio_type: cards #cards or carousel
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
-project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
+project_one: "Tember Defense"
+project_one_description: A Tower Defense game with RTS elements. Solo project made in Unity.
+project_one_url: https://glazed.itch.io/tember-defense
+project_one_icon: https://img.itch.zone/aW1hZ2UvMjM4MzY0LzEyMTcyODQucG5n/347x500/6Btxij.png # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
 
 project_two: Second Project
 project_two_description: Describe your project!
