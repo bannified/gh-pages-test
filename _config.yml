@@ -18,28 +18,46 @@ portfolio_type: cards #cards or carousel
 project_one: "Tember Defense"
 project_one_description:
 - A Tower Defense game with RTS elements.<br>Solo project made in Unity.<br><br>
-- Tember Features features modular systems, that can be composed together to form new and interesting gameplay mechanics.
-- The heavy usage of ScriptableObjects makes game balance extremely friendly for game designers to tweak values.
+- Tember Defense features modular systems, that can be composed together to form new and interesting gameplay mechanics.<br>
+- The heavy usage of ScriptableObjects makes the game extremely designer-friendly, as all changes can be done in the editor and stored in assets that are not prefabs.
+- ScriptableObjects, like Effects and Monsters, can also be reused in multiple occassions, making balance changes easier to be kept consistent.<br>
+- The way that features such as Effects, Skill, Projectile Behaviour, Units, and Buildings
+- are well-defined from one another makes the code easy to customize and even extend, eg. adding a new  effect.
 project_one_url: https://glazed.itch.io/tember-defense #maybe lead to a separate post itself
 project_one_icon: tember-defense
 project_one_button: itch.io
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: photo_camera
+project_two: "The Dots (Working prototype)"
+project_two_description:
+- The Dots is a high score reflex game made for the mobile platform,
+- which has simple game play mechanics and extensive customization options for the player's avatar.<br><br>
+- Solo project made in Unity. Playable WebGL build on itch.io.<br>
+- Currently in development for its eventual full release. <br>
+- One of the main pillars when starting this mobile game project was to focus on simplicity in game design,
+- as I wanted to practice on developing game feel such as the usage of Particle Systems and Sound in Unity.<br><br>
+- Trivia":" The game's first playable prototype was done in less than a day.
+project_two_url: https://glazed.itch.io/the-dots
+project_two_icon: the-dots
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
-project_three_icon: hotel
+project_three: The Shifter
+project_three_description:
+- The Shifter was made during Gamecraft 2017, a 24 hour game jam held in Singapore.
+- "Shift" was the theme of the game jam. <br><br>
+- Made in Unity together with Sophia Simangam, who was in charge of the art.
+project_three_url: https://glazed.itch.io/the-shifter
+project_three_icon: shifter
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
+project_four: Who are You?
+project_four_description:
+- A minimalistic exploration game made during NUS' Hack And Roll 2018.<br>
+- Made in Unity in 24 hours.<br>
+- Sophia Simangam":" Game and Level design<br>
+- Dominic":" Programming<br>
+
+project_four_url: https://glazed.itch.io/who-are-you
+project_four_icon: who-are-you
 
 # Skill icons from https://konpa.github.io/devicon/
 
