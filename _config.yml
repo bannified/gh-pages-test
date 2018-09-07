@@ -86,7 +86,7 @@ colored: colored # Leave blank for black and white icons
 
 project_button: Github
 
-github: https://bannified.github.io/gh-pages-test/
+github: https://github.com/bannified
 #medium: https://medium.com
 
 baseurl: # If your site is located at /blog or /home, change it here, otherwise leave it empty
