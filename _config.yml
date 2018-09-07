@@ -16,10 +16,10 @@ portfolio_heading: Portfolio
 portfolio_type: cards #cards or carousel
 
 project_one: "Tember Defense"
-project_one_description: >
-A Tower Defense game with RTS elements.<br>Solo project made in Unity.<br><br>
-Tember Features features modular systems, that can be composed together to form new and interesting gameplay mechanics.
-The heavy usage of ScriptableObjects makes game balance extremely friendly for game designers to tweak values.
+project_one_description:
+- A Tower Defense game with RTS elements.<br>Solo project made in Unity.<br><br>
+- Tember Features features modular systems, that can be composed together to form new and interesting gameplay mechanics.
+- The heavy usage of ScriptableObjects makes game balance extremely friendly for game designers to tweak values.
 project_one_url: https://glazed.itch.io/tember-defense #maybe lead to a separate post itself
 project_one_icon: tember-defense
 project_one_button: itch.io
