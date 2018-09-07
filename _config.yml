@@ -71,8 +71,8 @@ skills:
   - name: gitlab
   - name: bitbucket
   - name: sourcetree
-    uri: /assets/images/unity.jpg # Add external icon, for internal icon use uri: /assets/my_icon.jpg
-    uri: /assets/images/ue4.png
+  - uri: /assets/images/unity.jpg # Add external icon, for internal icon use uri: /assets/my_icon.jpg
+  - uri: /assets/images/ue4.png
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
