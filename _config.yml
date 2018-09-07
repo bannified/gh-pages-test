@@ -7,8 +7,8 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 
 remote_theme: jekyll-material-theme
 
-parallax_image_one: /assets/images/tember-defense.png # These are the images used for the parallax background
-parallax_image_two: /assets/images/tember-defense.png
+parallax_image_one: /assets/images/tember-defense-hd.png # These are the images used for the parallax background
+parallax_image_two: /assets/images/wru1.png
 
 # Settings for the porfolio section
 
