@@ -1,7 +1,7 @@
 title: Dominic Chong
 name: Dominic Chong
 email: dominicchongjh@gmail.com
-description: Unity/UE4 Game Developer<br><br>Computer Science Undergraduate at National University of Singapore
+description: Unity Game Developer</br></br>Computer Science Undergraduate at National University of Singapore
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
@@ -15,7 +15,7 @@ parallax_image_two: /assets/images/tember-defense.png
 portfolio_heading: Portfolio
 portfolio_type: cards #cards or carousel
 
-project_one: "Tember Defense"
+project_one: Tember Defense
 project_one_description:
 - "A Tower Defense game with RTS elements.<br>Solo project made in Unity.<br><br>
 - Tember Defense features modular systems, that can be composed together to form new and interesting gameplay mechanics.<br>
@@ -73,8 +73,8 @@ skills:
   - name: sourcetree
   - name: unity
     uri: /assets/images/unity.jpg # Add external icon, for internal icon use uri: /assets/my_icon.jpg
-  - name: ue4
-    uri: /assets/images/ue4.png
+  #- name: ue4
+#    uri: /assets/images/ue4.png
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
