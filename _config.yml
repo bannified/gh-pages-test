@@ -35,7 +35,7 @@ project_two_description:
 - Currently in development for its eventual full release. <br>
 - One of the main pillars when starting this mobile game project was to focus on simplicity in game design,
 - as I wanted to practice on developing game feel such as the usage of Particle Systems and Sound in Unity.<br><br>
-- Trivia":" The game's first playable prototype was done in less than a day.
+- Trivia':' The game's first playable prototype was done in less than a day.
 project_two_url: https://glazed.itch.io/the-dots
 project_two_icon: the-dots
 
@@ -45,8 +45,8 @@ project_three_description:
 - The Shifter was made during Gamecraft 2017, a 24 hour game jam held in Singapore.<br>
 - "Shift" was the theme of the game jam. <br><br>
 - Made in Unity.<br>
-- Sophia Simangam":" Art and Level Design<br>
-- Dominic Chong":" Programming and Game Design<br>
+- Sophia Simangam':' Art and Level Design<br>
+- Dominic Chong':' Programming and Game Design<br>
 project_three_url: https://glazed.itch.io/the-shifter
 project_three_icon: shifter
 
@@ -55,8 +55,8 @@ project_four: Who are You?
 project_four_description:
 - A minimalistic personality exploration game made during NUS' Hack And Roll 2018.<br>
 - Made in Unity in 24 hours.<br>
-- Sophia Simangam":" Game and Level design<br>
-- Dominic Chong":" Programming & Game Design<br>
+- Sophia Simangam':' Game and Level design<br>
+- Dominic Chong':' Programming & Game Design<br>
 project_four_url: https://glazed.itch.io/who-are-you
 project_four_icon: who-are-you
 
