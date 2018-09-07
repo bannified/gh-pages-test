@@ -22,7 +22,7 @@ Tember Defense features modular systems, that can be composed together to form n
 The heavy usage of ScriptableObjects makes the game extremely designer-friendly, as all changes can be done in the editor and stored in assets that are not prefabs.
 ScriptableObjects, like Effects and Monsters, can also be reused in multiple occassions, making balance changes easier to be kept consistent.<br>
 The way that features such as Effects, Skill, Projectile Behaviour, Units, and Buildings
-are well-defined from one another makes the code easy to customize and even extend, eg. adding a new  effect.<br><br>"
+are well-defined from one another makes the code easy to customize and even extend, eg. adding a new  effect.<br><br><br><br>"
 project_one_url: https://glazed.itch.io/tember-defense #maybe lead to a separate post itself
 project_one_icon: tember-defense
 project_one_button: itch.io
@@ -33,7 +33,7 @@ which has simple game play mechanics and extensive customization options for the
 Solo project made in Unity. Playable WebGL build on itch.io.<br>
 Currently in development for its eventual full release. <br><br>
 One of the main pillars when starting this mobile game project was to focus on simplicity in game design,
-as I wanted to practice on developing game feel such as the usage of Particle Systems and Sound in Unity.<br><br>"
+as I wanted to practice on developing game feel such as the usage of Particle Systems and Sound in Unity.<br><br><br><br>"
 project_two_url: https://glazed.itch.io/the-dots
 project_two_icon: the-dots
 project_two_button: itch.io
